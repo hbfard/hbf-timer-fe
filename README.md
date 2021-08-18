@@ -1,3 +1,8 @@
+## To view the working result, please click on the link below:
+[https://hbf-timer-fe.herokuapp.com/counter](https://hbf-timer-fe.herokuapp.com/counter)
+
+-------------------------------
+
 ## Instructions
 
 ![Capture](https://user-images.githubusercontent.com/3336960/129758393-df327913-b886-45e8-8c02-2f7369e0bc22.PNG)
