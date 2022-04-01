@@ -1,5 +1,6 @@
 ## To view the working result, please click on the link below:
 [https://hbf-timer-fe.herokuapp.com/counter](https://hbf-timer-fe.herokuapp.com/counter)
+Note: at the moment the dyno is offline
 
 -------------------------------
 
